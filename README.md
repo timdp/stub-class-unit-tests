@@ -1,6 +1,6 @@
 # stub-class-unit-tests
 
-[![npm](https://img.shields.io/npm/v/stub-class-unit-tests.svg)](https://www.npmjs.com/package/stub-class-unit-tests) [![Dependencies](https://img.shields.io/david/timdp/stub-class-unit-tests.svg)](https://david-dm.org/timdp/stub-class-unit-tests) [![Build Status](https://img.shields.io/travis/timdp/stub-class-unit-tests.svg)](https://travis-ci.org/timdp/stub-class-unit-tests) [![Coverage Status](https://img.shields.io/coveralls/timdp/stub-class-unit-tests.svg)](https://coveralls.io/r/timdp/stub-class-unit-tests) [![JavaScript Standard Style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)
+[![npm](https://img.shields.io/npm/v/stub-class-unit-tests.svg)](https://www.npmjs.com/package/stub-class-unit-tests) [![Dependencies](https://img.shields.io/david/timdp/stub-class-unit-tests.svg)](https://david-dm.org/timdp/stub-class-unit-tests) [![Build Status](https://img.shields.io/travis/timdp/stub-class-unit-tests/master.svg)](https://travis-ci.org/timdp/stub-class-unit-tests) [![Coverage Status](https://img.shields.io/coveralls/timdp/stub-class-unit-tests/master.svg)](https://coveralls.io/r/timdp/stub-class-unit-tests) [![JavaScript Standard Style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)
 
 Stubs unit tests for ES2015 classes. Uses Mocha + Chai.
 
