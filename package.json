@@ -1,6 +1,6 @@
 {
   "name": "stub-class-unit-tests",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Stubs unit tests for ES2015 classes.",
   "main": "index.js",
   "author": "Tim De Pauw <hi@tmdpw.eu> (https://tmdpw.eu/)",
